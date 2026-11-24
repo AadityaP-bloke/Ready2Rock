@@ -6,7 +6,7 @@ It ships both a **CLI** and a **PyQt6 GUI** built on the same `Config` / `proces
 ## Features
 
 - **Convert** audio to MP3, Ogg Vorbis, Opus, FLAC, ALAC, M4A/AAC, WAV or AIFF at a chosen bitrate
-  (or copy the original streams unchanged). Uses a **system ffmpeg** — nothing is bundled.
+  (or copy the original streams unchanged). Uses a **system ffmpeg** - nothing is bundled.
 - **Scrape metadata from MusicBrainz** with fuzzy scoring, a 1 req/s rate limit and a local
   response cache. You choose exactly which fields are allowed to be applied.
 - **Normalise artwork** to exactly 600×600 **baseline (non-progressive) JPEG**, from embedded
